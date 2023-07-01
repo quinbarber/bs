@@ -1,0 +1,115 @@
+{
+    "conditions":[
+       {
+          "condition":"A large cryptocurrency exchange has been hacked resulting in a potential or actual loss of funds for customers.",
+          "direction":"SHORT",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"A large cryptocurrency exchange is facing potential or actual insolvency or bankruptcy which could result or is resulting in a large loss of funds for customers.",
+          "direction":"SHORT",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"A very large bank or important financial institution is facing potential or actual insolvency or has gone into administration/liquidation/bankruptcy.",
+          "direction":"SHORT",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"The US, EU, or EU member state (or high-ranking politician, regulator or central banker thereof) announces or suggests it is not willing or able to bail out or save a very large financial institution facing collapse.",
+          "direction":"SHORT",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"A cryptocurrency cross-chain bridge or DeFi network/blockchain has been hacked resulting in a very large loss of funds.",
+          "direction":"SHORT",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"Joe Biden, Gary Gensler or the SEC announces regulatory crackdown on cryptocurrency.",
+          "direction":"SHORT",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"The EU announces further strict cryptocurrency regulations which limit the ability of individuals to hold or trade cryptocurrency or seriously restricts cryptocurrency businesses.",
+          "direction":"SHORT",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"China moves or announces plans to legalise or decriminalise crypto trading or holding (or a credible rumour suggests they will).",
+          "direction":"LONG",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"Latest US inflation figures lower than expected or economic data such as GDP growth or employment better than expected.",
+          "direction":"LONG",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       },
+       {
+          "condition":"The Federal Reserve or Jerome Powell voices intentions or announces plans to reduce interest rates or begin a new round of Quantitative Easing to prop up the economy.",
+          "direction":"LONG",
+          "rotation":"linear",
+          "exchange":"Kucoin",
+          "pair":"XBTUSDTM",
+          "quantity":"0.025",
+          "leverage": 10,
+          "take_profit_percentage": 5,
+          "stop_loss_percentage": 5
+       }
+    ]
+ }
+ 

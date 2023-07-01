@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "blackswan"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9.0,<4.0"
+
+# exchange APIs
+pybit = "^5.2.0"
+binance-futures-connector = "^3.3.1"
+kucoin-futures-python = "^1.0.6"
+bitmex = "^0.2.2"
+tweety = {git = "https://github.com/krruzic/tweety.git"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
